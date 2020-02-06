@@ -103,7 +103,7 @@
       </PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
@@ -158,6 +158,7 @@
     <ClCompile Include="poj_2182完全二叉树实现线段树.cpp" />
     <ClCompile Include="POj_LostCows.cpp" />
     <ClCompile Include="八数码.cpp" />
+    <ClCompile Include="区间修改和查询---线段树.cpp" />
     <ClCompile Include="并查集.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

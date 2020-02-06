@@ -51,7 +51,7 @@ int Query(int key, int num, int lastLeft) // ²éÑ¯¼ÓÎ¬»¤£¬¹Ø¼üµÄÒ»µãÊÇËùÇóÖµÎªµ±Ç
 
 }
 
-int main()
+static int main1()
 {
 	int n, lastLeft, i;
 	cin >> n; 

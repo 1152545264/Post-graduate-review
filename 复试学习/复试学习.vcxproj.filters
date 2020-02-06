@@ -39,5 +39,8 @@
     <ClCompile Include="poj_2182完全二叉树实现线段树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="区间修改和查询---线段树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
