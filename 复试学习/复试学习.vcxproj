@@ -157,9 +157,14 @@
     <ClCompile Include="poj_2182--线段树解决cpp.cpp" />
     <ClCompile Include="poj_2182完全二叉树实现线段树.cpp" />
     <ClCompile Include="POj_LostCows.cpp" />
+    <ClCompile Include="ST表（又名跳表）.cpp" />
+    <ClCompile Include="倍增求LCA（最近公共祖先）.cpp" />
     <ClCompile Include="八数码.cpp" />
     <ClCompile Include="区间修改和查询---线段树.cpp" />
+    <ClCompile Include="带权并查集.cpp" />
     <ClCompile Include="并查集.cpp" />
+    <ClCompile Include="树状数组.cpp" />
+    <ClCompile Include="线段树的另一种算法.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

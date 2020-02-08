@@ -42,5 +42,20 @@
     <ClCompile Include="区间修改和查询---线段树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="带权并查集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="树状数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ST表（又名跳表）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="倍增求LCA（最近公共祖先）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="线段树的另一种算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
