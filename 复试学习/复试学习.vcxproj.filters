@@ -13,49 +13,76 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\动态规划">
+      <UniqueIdentifier>{61490cdf-d943-4f97-ad1a-ec739f3b47b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\并查集，线段树树状数组以及分治法">
+      <UniqueIdentifier>{ec1e6c92-e5a0-4651-bc2b-8a0f9e8c0127}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DFS.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="八数码.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="IDA星.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="并查集.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
     </ClCompile>
     <ClCompile Include="hudu4584和尚战斗顺序.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
     </ClCompile>
-    <ClCompile Include="POj_LostCows.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="poj_2182--线段树解决cpp.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="IDA星.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
     </ClCompile>
     <ClCompile Include="poj_2182完全二叉树实现线段树.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
     </ClCompile>
-    <ClCompile Include="区间修改和查询---线段树.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="poj_2182--线段树解决cpp.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
     </ClCompile>
-    <ClCompile Include="带权并查集.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="树状数组.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="POj_LostCows.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
     </ClCompile>
     <ClCompile Include="ST表（又名跳表）.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="八数码.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
     </ClCompile>
     <ClCompile Include="倍增求LCA（最近公共祖先）.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="并查集.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="带权并查集.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="分治算法 之快排.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="哈夫曼树.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="逆序对数  -----归并算法.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="区间修改和查询---线段树.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="树状数组.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="贪心算法之今年暑假不AC.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
     </ClCompile>
     <ClCompile Include="线段树的另一种算法.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="最少硬币问题 -- 贪心算法.cpp">
+      <Filter>源文件\并查集，线段树树状数组以及分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划DP之最少硬币数.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="最少硬币组合之打印硬币组合.cpp">
+      <Filter>源文件\动态规划</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

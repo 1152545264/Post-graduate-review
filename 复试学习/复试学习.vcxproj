@@ -160,11 +160,18 @@
     <ClCompile Include="ST表（又名跳表）.cpp" />
     <ClCompile Include="倍增求LCA（最近公共祖先）.cpp" />
     <ClCompile Include="八数码.cpp" />
+    <ClCompile Include="分治算法 之快排.cpp" />
+    <ClCompile Include="动态规划DP之最少硬币数.cpp" />
     <ClCompile Include="区间修改和查询---线段树.cpp" />
+    <ClCompile Include="哈夫曼树.cpp" />
     <ClCompile Include="带权并查集.cpp" />
     <ClCompile Include="并查集.cpp" />
+    <ClCompile Include="最少硬币组合之打印硬币组合.cpp" />
     <ClCompile Include="树状数组.cpp" />
     <ClCompile Include="线段树的另一种算法.cpp" />
+    <ClCompile Include="最少硬币问题 -- 贪心算法.cpp" />
+    <ClCompile Include="贪心算法之今年暑假不AC.cpp" />
+    <ClCompile Include="逆序对数  -----归并算法.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

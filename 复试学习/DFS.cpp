@@ -43,7 +43,7 @@ static void DFS(vector<vector<char> >& room, int dx, int dy)
 	}
 }
 
-int main1()
+static int main1()
 {
 	std::cout << "Hello World!\n"; 
 	return 0;
