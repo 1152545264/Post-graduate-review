@@ -19,6 +19,21 @@
     <Filter Include="源文件\并查集，线段树树状数组以及分治法">
       <UniqueIdentifier>{ec1e6c92-e5a0-4651-bc2b-8a0f9e8c0127}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\动态规划\区间动态规划">
+      <UniqueIdentifier>{25239f33-eee1-4392-bb74-e488f24b1bd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\动态规划\树形DP">
+      <UniqueIdentifier>{bce39853-e8fe-43c3-a236-0e9d4e972421}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\动态规划\数位DP">
+      <UniqueIdentifier>{38e90fb1-ccdd-4db6-acac-78d1120182b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\动态规划\状态压缩DP">
+      <UniqueIdentifier>{bbd4cea4-4345-47b9-8e06-89ef48233e8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\数论">
+      <UniqueIdentifier>{2a91fc07-55d3-4693-8ba5-e84912efa721}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DFS.cpp">
@@ -83,6 +98,60 @@
     </ClCompile>
     <ClCompile Include="最少硬币组合之打印硬币组合.cpp">
       <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="hdu2069硬币所有的组合 不完全的解法.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="hdu2069硬币所有的组合，完全解法.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="0-1背包问题.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划 hdu2602骨头收集.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划最长公共子序列.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划 最长递增子序列.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="POJ1163递推与记忆化搜索.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="石子合并.cpp">
+      <Filter>源文件\动态规划\区间动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="poj3208回文子串.cpp">
+      <Filter>源文件\动态规划\区间动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="hdu1520.cpp">
+      <Filter>源文件\动态规划\树形DP</Filter>
+    </ClCompile>
+    <ClCompile Include="hdu2196.cpp">
+      <Filter>源文件\动态规划\树形DP</Filter>
+    </ClCompile>
+    <ClCompile Include="hdu2089动态规划版本.cpp">
+      <Filter>源文件\动态规划\数位DP</Filter>
+    </ClCompile>
+    <ClCompile Include="hdu2089递推版本.cpp">
+      <Filter>源文件\动态规划\数位DP</Filter>
+    </ClCompile>
+    <ClCompile Include="哈密顿路径.cpp">
+      <Filter>源文件\动态规划\状态压缩DP</Filter>
+    </ClCompile>
+    <ClCompile Include="快速幂.cpp">
+      <Filter>源文件\数论</Filter>
+    </ClCompile>
+    <ClCompile Include="最大公约数GCD和最小公倍数.cpp">
+      <Filter>源文件\数论</Filter>
+    </ClCompile>
+    <ClCompile Include="判断素数.cpp">
+      <Filter>源文件\数论</Filter>
+    </ClCompile>
+    <ClCompile Include="整数划分.cpp">
+      <Filter>源文件\数论</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

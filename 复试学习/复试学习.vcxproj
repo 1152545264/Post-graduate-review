@@ -152,8 +152,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DFS.cpp" />
+    <ClCompile Include="hdu2069硬币所有的组合 不完全的解法.cpp" />
+    <ClCompile Include="hdu2069硬币所有的组合，完全解法.cpp" />
+    <ClCompile Include="hdu2089递推版本.cpp" />
+    <ClCompile Include="hdu2089动态规划版本.cpp" />
+    <ClCompile Include="hdu2196.cpp" />
     <ClCompile Include="hudu4584和尚战斗顺序.cpp" />
     <ClCompile Include="IDA星.cpp" />
+    <ClCompile Include="POJ1163递推与记忆化搜索.cpp" />
+    <ClCompile Include="poj3208回文子串.cpp" />
     <ClCompile Include="poj_2182--线段树解决cpp.cpp" />
     <ClCompile Include="poj_2182完全二叉树实现线段树.cpp" />
     <ClCompile Include="POj_LostCows.cpp" />
@@ -161,15 +168,26 @@
     <ClCompile Include="倍增求LCA（最近公共祖先）.cpp" />
     <ClCompile Include="八数码.cpp" />
     <ClCompile Include="分治算法 之快排.cpp" />
+    <ClCompile Include="判断素数.cpp" />
+    <ClCompile Include="动态规划 hdu2602骨头收集.cpp" />
+    <ClCompile Include="动态规划 最长递增子序列.cpp" />
     <ClCompile Include="动态规划DP之最少硬币数.cpp" />
+    <ClCompile Include="动态规划最长公共子序列.cpp" />
     <ClCompile Include="区间修改和查询---线段树.cpp" />
     <ClCompile Include="哈夫曼树.cpp" />
+    <ClCompile Include="哈密顿路径.cpp" />
     <ClCompile Include="带权并查集.cpp" />
     <ClCompile Include="并查集.cpp" />
+    <ClCompile Include="快速幂.cpp" />
+    <ClCompile Include="整数划分.cpp" />
+    <ClCompile Include="最大公约数GCD和最小公倍数.cpp" />
     <ClCompile Include="最少硬币组合之打印硬币组合.cpp" />
+    <ClCompile Include="hdu1520.cpp" />
     <ClCompile Include="树状数组.cpp" />
+    <ClCompile Include="石子合并.cpp" />
     <ClCompile Include="线段树的另一种算法.cpp" />
     <ClCompile Include="最少硬币问题 -- 贪心算法.cpp" />
+    <ClCompile Include="0-1背包问题.cpp" />
     <ClCompile Include="贪心算法之今年暑假不AC.cpp" />
     <ClCompile Include="逆序对数  -----归并算法.cpp" />
   </ItemGroup>
